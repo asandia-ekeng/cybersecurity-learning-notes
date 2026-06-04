@@ -1,0 +1,102 @@
+📄 Cybersecurity Note #3
+
+Common Cyber Threats
+
+What Are Cyber Threats?
+
+Cyber threats are activities or attacks that attempt to damage, steal, disrupt, or gain unauthorized access to systems, networks, or data.
+
+Cybercriminals use different techniques to target individuals and organizations.
+
+Understanding common cyber threats is the first step toward protecting yourself online.
+
+
+1. Phishing
+
+Phishing is a cyber attack where attackers trick people into revealing sensitive information such as passwords, banking details, or personal information.
+
+Example
+
+A fake email claiming to be from a bank asking you to verify your account details.
+
+How to Protect Yourself
+
+* Verify the sender’s email address.
+* Avoid clicking suspicious links.
+* Enable Multi-Factor Authentication (MFA).
+
+
+2. Malware
+
+Malware stands for “malicious software.”
+
+It is designed to damage systems, steal information, or gain unauthorized access.
+
+Common Types of Malware
+
+* Viruses
+* Worms
+* Trojans
+* Spyware
+
+How to Protect Yourself
+
+* Keep software updated.
+* Install trusted antivirus software.
+* Avoid downloading files from unknown sources.
+
+
+3. Ransomware
+
+Ransomware is a type of malware that encrypts files and demands payment to restore access.
+
+Example
+
+An attacker locks company files and demands money before releasing them.
+
+How to Protect Yourself
+
+* Back up important data regularly.
+* Keep systems updated.
+* Avoid suspicious attachments.
+
+
+4. Social Engineering
+
+Social engineering involves manipulating people into revealing confidential information.
+
+Instead of attacking technology, attackers exploit human behavior.
+
+Example
+
+Someone pretending to be IT support asking for your password.
+
+How to Protect Yourself
+
+* Verify identities before sharing information.
+* Be cautious with unexpected requests.
+* Follow security procedures.
+
+
+5. Password Attacks
+
+Attackers attempt to gain access to accounts by guessing or stealing passwords.
+
+Common Methods
+
+* Brute-force attacks
+* Credential stuffing
+* Password spraying
+
+How to Protect Yourself
+
+* Use strong, unique passwords.
+* Enable MFA.
+* Use a password manager.
+
+
+Key Takeaway
+
+Cyber threats come in many forms, but most attacks exploit either technology weaknesses or human mistakes.
+
+Understanding common threats helps individuals and organizations take proactive steps to stay secure.
