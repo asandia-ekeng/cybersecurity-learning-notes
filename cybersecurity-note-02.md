@@ -6,7 +6,6 @@ This is one of the most fundamental concepts in cybersecurity.
 
 Almost everything in cybersecurity can be linked back to these three principles.
 
-⸻
 
 What is the CIA Triad?
 
@@ -18,7 +17,7 @@ The CIA Triad is a security model made up of:
 
 It helps organizations protect information and maintain secure systems.
 
-⸻
+
 
 1. Confidentiality
 
@@ -43,7 +42,6 @@ How Confidentiality is Protected
 * Multi-factor authentication (MFA)
 * Access controls
 
-⸻
 
 2. Integrity
 
@@ -66,7 +64,6 @@ How Integrity is Protected
 * File permissions
 * Audit logs
 
-⸻
 
 3. Availability
 
@@ -89,7 +86,6 @@ How Availability is Protected
 * Disaster recovery plans
 * System maintenance
 
-⸻
 
 Real-Life Example
 
@@ -107,7 +103,6 @@ Availability
 
 Customers should be able to access the banking platform whenever they need it.
 
-⸻
 
 Key Takeaway
 
