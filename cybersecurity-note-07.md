@@ -57,7 +57,7 @@ Examples include:
 * Biometrics
 
 
-  3. Keep Software Updated
+3. Keep Software Updated
 
 Software updates often contain security patches.
 
