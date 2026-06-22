@@ -1,0 +1,143 @@
+Cybersecurity Note #16
+
+Linux Commands (Part 2)
+
+Introduction
+
+Linux provides powerful command-line tools that allow users to manage files, directories, and system activities efficiently.
+
+As cybersecurity professionals, understanding these commands is essential because many servers, cloud environments, and security tools operate on Linux systems.
+
+This note explores five important Linux commands: cp, mv, rm, clear, and history.
+
+
+1. cp (Copy Files)
+
+The cp command is used to create a copy of a file or directory.
+
+Syntax
+
+cp source destination
+
+Example
+
+cp notes.txt backup_notes.txt
+
+This creates a duplicate of notes.txt called backup_notes.txt.
+
+Why It Matters
+
+Creating backups before making changes is a good security and operational practice.
+
+
+2. mv (Move or Rename Files)
+
+The mv command is used to move files between directories or rename files.
+
+Rename Example
+
+mv oldname.txt newname.txt
+
+Move Example
+
+mv report.txt Documents/
+
+Why It Matters
+
+Organizing files properly improves system management and reduces confusion.
+
+
+3. rm (Remove Files)
+
+The rm command permanently deletes files.
+
+Example
+
+rm file.txt
+
+Multiple Files
+
+rm file1.txt file2.txt
+
+Warning
+
+Files removed using rm are typically not moved to a recycle bin.
+
+Always verify before deleting important files.
+
+Why It Matters
+
+Cybersecurity professionals often remove unnecessary or potentially harmful files from systems.
+
+
+4. clear
+
+The clear command clears the terminal screen.
+
+Example
+
+clear
+
+Why It Matters
+
+It helps maintain a clean workspace when running multiple commands.
+
+
+5. history
+
+The history command displays previously executed commands.
+
+Example
+
+history
+
+Sample Output
+
+1 ls
+2 cd Documents
+3 mkdir Notes
+
+Why It Matters
+
+The history command can help users:
+
+* Review previous actions
+* Repeat commands
+* Troubleshoot mistakes
+* Track system activity
+
+
+Cybersecurity Relevance
+
+Linux command-line skills are fundamental in cybersecurity because:
+
+* Many servers run Linux
+* Cloud environments often use Linux systems
+* Security tools frequently operate through the terminal
+* Incident response may require command-line investigations
+
+A strong understanding of Linux commands improves efficiency and technical confidence.
+
+
+Key Takeaways
+
+* cp copies files and directories.
+* mv moves or renames files.
+* rm deletes files permanently.
+* clear cleans the terminal screen.
+* history displays previously executed commands.
+* Linux command-line skills are essential in cybersecurity.
+
+⸻
+
+Reflection
+
+Today’s note reminded me that cybersecurity is not only about defending systems from attacks.
+
+It is also about understanding how systems work at a foundational level.
+
+Simple commands like copying, moving, deleting, and tracking files may seem basic, but they are part of the daily toolkit used by system administrators, cloud engineers, and cybersecurity professionals.
+
+The deeper I go into Linux, the more I realize that strong cybersecurity skills are built on strong foundations.
+
+Every command learned today is another step toward becoming more confident and capable in the world of technology.TV
